@@ -1,0 +1,21 @@
+{
+  "seed": 42,
+  "test_size": 0.2,
+  "neurons": 1024,
+  "n_layers": 6,
+  "dropout": 0.1,
+  "learning_rate": 0.001,
+  "batch_size": 32,
+  "epochs": 400,
+  "early_stop_patience": 25,
+  "MAX_HEIGHT": 53.4,
+  "MIN_HEIGHT": 0.0,
+  "INIT_HEIGHT": 0.6,
+  "STAGE1_END": 20.0,
+  "STAGE2_END": 60.0,
+  "START_GROW": 60.0,
+  "DROP_LIMIT": -0.2,
+  "START_STABLE": 100.0,
+  "fusion_epochs": 80,
+  "fusion_patience": 15
+}
